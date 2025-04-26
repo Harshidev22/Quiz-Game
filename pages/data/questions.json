@@ -1,0 +1,205 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What is the closest planet to our solar system's sun?",
+      "correct_answer": "Mercury",
+      "incorrect_answers": ["Mars", "Jupiter", "Earth"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Musicals & Theatres",
+      "question": "The Andrew Lloyd Webber musical \"Cats\" is based off a book of poems written by which author?",
+      "correct_answer": "T.S. Elliot",
+      "incorrect_answers": ["Andrew Lloyd Webber", "Emily Dickenson", "Robert Frost"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "What is the name of the main character in the webcomic Gunnerkrigg Court by Tom Siddell?",
+      "correct_answer": "Antimony",
+      "incorrect_answers": ["Bismuth", "Mercury", "Cobalt"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In Super Mario Bros., who informs Mario that the princess is in another castle?",
+      "correct_answer": "Toad",
+      "incorrect_answers": ["Luigi", "Yoshi", "Bowser"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Coding",
+      "question": "What does HTML stand for?",
+      "correct_answer": "HyperText Markup Language",
+      "incorrect_answers": ["HyperTransfer Markup Language", "Home Tool Markup Language", "HighText Machine Language"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Coding",
+      "question": "Which company developed the Java programming language?",
+      "correct_answer": "Sun Microsystems",
+      "incorrect_answers": ["Microsoft", "Oracle", "IBM"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Coding",
+      "question": "Which of these is a valid JavaScript data type?",
+      "correct_answer": "String",
+      "incorrect_answers": ["Character", "Text", "StringText"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Coding",
+      "question": "In Python, which keyword is used to define a function?",
+      "correct_answer": "def",
+      "incorrect_answers": ["function", "func", "define"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Coding",
+      "question": "Which of the following is NOT a loop in JavaScript?",
+      "correct_answer": "switch",
+      "incorrect_answers": ["for", "while", "do...while"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Coding",
+      "question": "Which operator is used to concatenate strings in JavaScript?",
+      "correct_answer": "+",
+      "incorrect_answers": ["&", "concat", "join"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Coding",
+      "question": "In Python, what is the result of the expression 10 // 3?",
+      "correct_answer": "3",
+      "incorrect_answers": ["3.33", "3.0", "10"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Coding",
+      "question": "What does CSS stand for?",
+      "correct_answer": "Cascading Style Sheets",
+      "incorrect_answers": ["Creative Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Coding",
+      "question": "Which HTML tag is used to define an unordered list?",
+      "correct_answer": "<ul>",
+      "incorrect_answers": ["<ol>", "<li>", "<list>"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Coding",
+      "question": "In Python, which of the following methods can be used to remove whitespace from a string?",
+      "correct_answer": "strip()",
+      "incorrect_answers": ["trim()", "whitespace()", "remove()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Coding",
+      "question": "Which of the following is a correct syntax for creating a function in JavaScript?",
+      "correct_answer": "function myFunction() {}",
+      "incorrect_answers": ["function = myFunction {}", "function: myFunction {}", "function() = myFunction {}"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Coding",
+      "question": "What does 'var' do in JavaScript?",
+      "correct_answer": "Declares a variable",
+      "incorrect_answers": ["Declares a constant", "Declares a function", "Defines an object"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Coding",
+      "question": "Which of the following is NOT a primitive data type in JavaScript?",
+      "correct_answer": "Object",
+      "incorrect_answers": ["String", "Number", "Boolean"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Coding",
+      "question": "Which command is used to terminate a loop in JavaScript?",
+      "correct_answer": "break",
+      "incorrect_answers": ["exit", "stop", "terminate"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Coding",
+      "question": "Which of the following is used to comment a single line in JavaScript?",
+      "correct_answer": "//",
+      "incorrect_answers": ["<!-- -->", "#", "/* */"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Coding",
+      "question": "What does the '=='' operator do in JavaScript?",
+      "correct_answer": "Compares values",
+      "incorrect_answers": ["Compares data types", "Assigns value", "Compares references"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Coding",
+      "question": "What is the result of the expression 5 + '5' in JavaScript?",
+      "correct_answer": "'55'",
+      "incorrect_answers": ["10", "55", "5"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Coding",
+      "question": "What does SQL stand for?",
+      "correct_answer": "Structured Query Language",
+      "incorrect_answers": ["Structured Query List", "Simple Query Language", "Structured Question Language"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Coding",
+      "question": "Which function is used to round a number in JavaScript?",
+      "correct_answer": "Math.round()",
+      "incorrect_answers": ["Math.ceil()", "Math.floor()", "Math.abs()"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Coding",
+      "question": "What does the 'this' keyword refer to in JavaScript?",
+      "correct_answer": "The current object",
+      "incorrect_answers": ["The previous object", "The parent object", "The window object"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Coding",
+      "question": "Which of the following is a correct way to write a comment in Python?",
+      "correct_answer": "# This is a comment",
+      "incorrect_answers": ["// This is a comment", "/* This is a comment */", "/* This is a comment"]
+    }
+  ]
+}
